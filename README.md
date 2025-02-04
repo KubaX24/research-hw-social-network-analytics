@@ -5,3 +5,4 @@ Výzkumný úkol zaměřený na Analýzu sociálních sítí (Social Network Ana
 Obsahuje:
  - Skripty ke zpracování dat
  - Webovou aplikaci, vykreslující graf
+ - původní data
